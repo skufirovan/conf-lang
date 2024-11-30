@@ -1,0 +1,4 @@
+# Comment 1
+Max_connections = 100
+Timeout = 30
+Ports = [80, 443, 8080]
