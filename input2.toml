@@ -1,0 +1,6 @@
+# number of blades
+Blades = 4
+# number of speed modes
+Speed_mode = 3
+# rotation speed
+Speed = [100, 200, 300]
